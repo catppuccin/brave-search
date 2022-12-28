@@ -6,39 +6,39 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/ndsboy/brave-search/stargazers"><img src="https://img.shields.io/github/stars/ndsboy/brave-search?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/ndsboy/brave-search/issues"><img src="https://img.shields.io/github/issues/ndsboy/brave-search?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/ndsboy/brave-search/contributors"><img src="https://img.shields.io/github/contributors/ndsboy/brave-search?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-	<a href="https://github.com/ndsboy/brave-search/raw/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/brave-search/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/brave-search?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/brave-search/issues"><img src="https://img.shields.io/github/issues/catppuccin/brave-search?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/brave-search/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/brave-search?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/brave-search/raw/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://github.com/ndsboy/brave-search/blob/main/assets/preview.png"/>
+	<img src="https://github.com/catppuccin/brave-search/blob/main/assets/preview.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/ndsboy/brave-search/blob/main/assets/latte.png"/>
+<img src="https://github.com/catppuccin/brave-search/blob/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/ndsboy/brave-search/blob/main/assets/frappe.png"/>
+<img src="https://github.com/catppuccin/brave-search/blob/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/ndsboy/brave-search/blob/main/assets/macchiato.png"/>
+<img src="https://github.com/catppuccin/brave-search/blob/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/ndsboy/brave-search/blob/main/assets/mocha.png"/>
+<img src="https://github.com/catppuccin/brave-search/blob/main/assets/mocha.png"/>
 </details>
 
 ## Usage
 
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
-2. [Click here to install.](https://github.com/ndsboy/brave-search/raw/main/catppuccin.user.css)
+2. [Click here to install.](https://github.com/catppuccin/brave-search/raw/main/catppuccin.user.css)
 
 ## 💝 Thanks to
 
