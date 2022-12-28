@@ -9,6 +9,7 @@
 	<a href="https://github.com/ndsboy/brave-search/stargazers"><img src="https://img.shields.io/github/stars/ndsboy/brave-search?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/ndsboy/brave-search/issues"><img src="https://img.shields.io/github/issues/ndsboy/brave-search?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://github.com/ndsboy/brave-search/contributors"><img src="https://img.shields.io/github/contributors/ndsboy/brave-search?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/ndsboy/brave-search/raw/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@
 
 ## 💝 Thanks to
 
--   [ndsboy](https://github.com/ndsboy)
+- [ndsboy](https://github.com/ndsboy)
 
 &nbsp;
 
