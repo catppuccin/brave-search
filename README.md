@@ -43,6 +43,7 @@
 ## 💝 Thanks to
 
 - [ndsboy](https://github.com/ndsboy)
+- [nonetrix](https://github.com/nonetrix)
 - [isabelroses](https://github.com/isabelroses)
 - [nekorubu](https://github.com/nekorubu)
 
